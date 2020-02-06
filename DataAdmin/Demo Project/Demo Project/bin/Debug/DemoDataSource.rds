@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DemoDataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=AdventureWorks2016;user id=sa;password=query</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>88615bbd-ad73-494d-ba98-c26249affcc6</DataSourceID>
+</RptDataSource>
